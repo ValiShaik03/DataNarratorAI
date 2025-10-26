@@ -6,6 +6,13 @@ It combines the power of **Exploratory Data Analysis (EDA)**, **Visualization**,
 
 ---
 
+## 🌐 Live Demo
+
+🚀 **Try it here:** [DataNarratorAI on Streamlit Cloud](https://datanarratorai.streamlit.app)
+
+*(No setup required — includes a built-in sample dataset for instant testing.)*
+
+
 ## ✨ Features
 
  **Smart Data Upload or Auto Demo Dataset** — Upload your own CSV/Excel file or explore instantly using the built-in Superstore dataset.  
