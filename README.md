@@ -23,8 +23,7 @@ It combines the power of **Exploratory Data Analysis (EDA)**, **Visualization**,
 - **Backend:** Python  
 - **Libraries:** Pandas, Plotly, OpenAI, LangChain  
 - **ML/AI:** GPT models for data storytelling  
-- **Visualization:** Plotly, Matplotlib, Seaborn  
-- **Database (Optional):** SQLite for chat/session storage  
+- **Visualization:** Plotly, Matplotlib, Seaborn    
 
 ---
 
