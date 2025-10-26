@@ -92,3 +92,5 @@ streamlit run app.py
 📧 mvali060103@gmail.com
 
 🔗https://linkedin.com/in/mahaboobvalishaik/ 
+
+⭐ If you like this project, consider giving it a star on GitHub! ⭐
